@@ -1,0 +1,3 @@
+[submodule "SubRepo"]
+	path = SubRepo
+	url = https://github.com/oleflaten/SubRepo
