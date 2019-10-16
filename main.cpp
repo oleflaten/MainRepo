@@ -20,5 +20,7 @@ int main()
     testFunction();
 //    addedFunction();
 
+    cout << adding(7) << endl;
+
     return 0;
 }
