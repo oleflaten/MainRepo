@@ -7,4 +7,5 @@ SOURCES += \
         main.cpp
 
 HEADERS += \
+    OtherFuntions/otherfunctions.h \
     SubRepo/functions.h
